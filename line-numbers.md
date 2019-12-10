@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome.
 #### 10
-#### 11 This is confusing.
+#### 11 Why is this confusing.
 #### 12
 #### 13
 #### 14
